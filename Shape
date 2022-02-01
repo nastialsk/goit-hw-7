@@ -1,5 +1,3 @@
-package figures;
-
 public abstract class Shape {
     private String figureName;
     protected int x, y, z;
